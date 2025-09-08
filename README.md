@@ -3,5 +3,5 @@ This repository contains the initial code I created when learning to use GitHub 
 
 ---
 # Plan
-...
+Future plans for this repository include adding a sample sata file and a [Jupyter](https://jupyter.org) notebook that will interact with the file.
 
