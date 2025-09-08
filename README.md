@@ -6,6 +6,7 @@ This repository contains the initial code I created when learning to use GitHub 
 Future plans for this repository include adding a sample sata file and a [Jupyter](https://jupyter.org) notebook that will interact with the file.
 # About Me
 I am Xueyan Shan, and I work in biochemstry. **Data Science** is becoming one of my passions.
+
 My data science competencies include:
 - Computer Applications
 - Managing Projects through GitHub
