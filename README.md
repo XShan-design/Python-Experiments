@@ -12,5 +12,5 @@ My data science competencies include:
 - Python Programming
 - Data Wrangling
 In order to test the inclusion of a photograph, I've included a photo of the roses that I took from the North Park at MSU.
-!(RoseNorthFarmMSU.HEIC)
+!(RoseNorthFarmMSU.jpg)
 
